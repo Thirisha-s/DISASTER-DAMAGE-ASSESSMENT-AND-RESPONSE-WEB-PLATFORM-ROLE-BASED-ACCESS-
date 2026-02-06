@@ -54,6 +54,15 @@ Hosting & Deployment: Cloud-based environments (AWS EC2/S3, GCP Compute Engine)
 ### ARCHITECURE DIAGRAM:
 <img width="1411" height="658" alt="image" src="https://github.com/user-attachments/assets/12b41cf1-61be-4c53-999b-e94951a0054d" />
 
+### PROGRAM
+# BACKEND SETTINGS.PY
+<img width="897" height="779" alt="image" src="https://github.com/user-attachments/assets/9970b40a-8e14-4229-af85-f6cc71249cdf" />
+
+### FRONTEND
+# PACKAGE.LOCK.JSON
+<img width="1129" height="792" alt="image" src="https://github.com/user-attachments/assets/98a7836a-75b9-40fc-bdc7-d57bf752e707" />
+
+
 ### RESULT:
 RESULTS
 
